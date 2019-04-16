@@ -1,4 +1,4 @@
-package main
+package addtwonumbers
 
 func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
 	p1, p2 := l1, l2
